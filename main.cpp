@@ -2,5 +2,5 @@
 
 int main()
 {
-	print("merhaba");
+	print("merhaba bu ilk proje çalýþmam");
 }
